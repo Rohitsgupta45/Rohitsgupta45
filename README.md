@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitsgupta45
+- 👋 Hi, I’m Rohit Shaw
 - 👀 I’m interested in Web-devlopement
 - 🌱 I’m currently learning Mathematics Hounrs
 - 💞️ I’m looking to collaborate on ...
